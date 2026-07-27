@@ -1,0 +1,5 @@
+Payroll Allowances
+
+House Rent Allowance: 10000
+Travel Allowance: 3000
+Medical Allowance: 2000
