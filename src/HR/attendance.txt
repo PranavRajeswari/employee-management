@@ -1,0 +1,7 @@
+Attendance Record:
+
+Employee ID: EMP001
+
+Status: Present
+
+Working Hours: 9
