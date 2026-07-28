@@ -1,0 +1,11 @@
+Employee Performance Report
+
+Employee: Rahul Sharma
+Department: Reports
+
+Attendance: 98%
+Tasks Completed: 42
+Performance Rating: Excellent
+
+Remarks:
+Consistently completed assigned work before deadlines and maintained high-quality documentation.
